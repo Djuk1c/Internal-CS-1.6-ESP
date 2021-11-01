@@ -5,6 +5,6 @@ Works for build 8684 (Steam)
 
 ## Building
 Change build settings to dll, link detours.lib and build.  
-https://www.unknowncheats.me/forum/counterstrike-1-5-1-6-and-mods/
+https://www.unknowncheats.me/forum/counterstrike-1-5-1-6-and-mods/474588-simple-internal-esp-source.html
 
 ![image](https://i.imgur.com/bGQGPDB.png)
