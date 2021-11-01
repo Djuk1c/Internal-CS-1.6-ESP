@@ -5,5 +5,6 @@ Works for build 8684 (Steam)
 
 ## Building
 Change build settings to dll, link detours.lib and build.
+https://www.unknowncheats.me/forum/counterstrike-1-5-1-6-and-mods/
 
 ![image](https://i.imgur.com/bGQGPDB.png)
